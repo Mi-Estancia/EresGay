@@ -1,2 +1,2 @@
-# EresGay
-¿Eres gay? si o no
+test
+Si o No
