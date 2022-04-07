@@ -26,3 +26,8 @@ button{
 #noBtn{
     position: absolute;
 }
+
+a{
+    text-decoration: none;
+    color: black;
+}
