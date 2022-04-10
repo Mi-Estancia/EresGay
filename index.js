@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Se te notaba xd')
+    alert('Pasamela al wpp despues te pago en la escuela')
 });
 
 
